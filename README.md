@@ -1,15 +1,15 @@
-#Instructions
+Instructions
 =======================
 
 This code provides a complete environment to train and test a deep reinforcement learning agent that plays Connect4. It is suited for python 3.6 and requires the following modules : Tensorflow, Keras, graphviz, pydot ; all of which can be downloaded with pip or conda.
 
-##To TRAIN the agent :
+**To TRAIN the agent :**
 
 - run main_train.py. Since initialise.py contains ‘None’ for each variable, you will train a brand new agent.
 
 NB : Our best agent is in file 'train/run_archive/connect4/run0001/version0029.h5'
 
-##To TEST the agent :
+**To TEST the agent :**
 
 - Run test.py . With the current parameters, you will play against our best agent. When it’s your turn, just choose the column you want to put your yellow chip in, by entering a number between 0 and 6.
 
