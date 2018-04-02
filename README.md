@@ -4,4 +4,4 @@
 
 - Execution instructions are in the [instructions.txt](instructions.txt) file.
 
-Project realised at Ecole Polytechnique, in collaboration with @sarahperrin.
+Project realised at Ecole Polytechnique, in collaboration with Sarah Perrin.
